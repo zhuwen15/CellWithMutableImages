@@ -17,6 +17,7 @@
 		ED95776A1D27C1BA00012F92 /* MyModel.m in Sources */ = {isa = PBXBuildFile; fileRef = ED9577661D27C1BA00012F92 /* MyModel.m */; };
 		ED95776B1D27C1BA00012F92 /* imageHiddenCell.m in Sources */ = {isa = PBXBuildFile; fileRef = ED9577681D27C1BA00012F92 /* imageHiddenCell.m */; };
 		ED95776D1D27C23A00012F92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED95776C1D27C23A00012F92 /* Main.storyboard */; };
+		EDA040061D28B8E20029CCD1 /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = EDA040051D28B8E20029CCD1 /* 1.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		ED9577671D27C1BA00012F92 /* imageHiddenCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = imageHiddenCell.h; sourceTree = "<group>"; };
 		ED9577681D27C1BA00012F92 /* imageHiddenCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = imageHiddenCell.m; sourceTree = "<group>"; };
 		ED95776C1D27C23A00012F92 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		EDA040051D28B8E20029CCD1 /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				ED9577661D27C1BA00012F92 /* MyModel.m */,
 				ED9577671D27C1BA00012F92 /* imageHiddenCell.h */,
 				ED9577681D27C1BA00012F92 /* imageHiddenCell.m */,
+				EDA040051D28B8E20029CCD1 /* 1.gif */,
 				ED95773C1D27C14E00012F92 /* Assets.xcassets */,
 				ED95773E1D27C14E00012F92 /* LaunchScreen.storyboard */,
 				ED9577411D27C14E00012F92 /* Info.plist */,
@@ -255,6 +258,7 @@
 			files = (
 				ED95776D1D27C23A00012F92 /* Main.storyboard in Resources */,
 				ED9577401D27C14E00012F92 /* LaunchScreen.storyboard in Resources */,
+				EDA040061D28B8E20029CCD1 /* 1.gif in Resources */,
 				ED95773D1D27C14E00012F92 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -502,6 +506,7 @@
 				ED95775C1D27C14E00012F92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ED95775D1D27C14E00012F92 /* Build configuration list for PBXNativeTarget "CellWithMutableImagesTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +515,7 @@
 				ED95775F1D27C14E00012F92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ED9577601D27C14E00012F92 /* Build configuration list for PBXNativeTarget "CellWithMutableImagesUITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +524,7 @@
 				ED9577621D27C14E00012F92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
